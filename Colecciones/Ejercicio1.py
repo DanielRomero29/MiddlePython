@@ -4,7 +4,7 @@
 
 #1. Calcular la cantidad total de sesiones a las que asistieron Ana y Luis en conjunto.
 
-def Ejercicio1():
+def principal():
     asistencias = {"Ana": (1, 2, 3, 5, 6), "Luis": (2, 3, 4, 6, 7)}
 
     #1

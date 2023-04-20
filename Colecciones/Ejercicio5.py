@@ -5,7 +5,7 @@
 #5. Mostrar las sesiones a las que asistió Luis pero no Ana.
 
 
-def Ejercicio5():
+def principal():
     
     asistencias = {"Ana": (1, 2, 3, 5, 6), "Luis": (2, 3, 4, 6, 7)}
     

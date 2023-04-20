@@ -35,3 +35,7 @@ Ejecutar el comando ```py main.py```
 
 Este repositorio contiene unas carpetas, en las cuales podemos encontrar ejercicios o programas que se utilizan para trabajar con JSON, clases y distintas colecciones de Python.
 Dentro del main encontraremos un menú con 4 opciones que corresponde a las 4 carpetas. Dentro de cada opción, un submenú con los ejercicios.
+
+![menu](C:\Cloud2023\ToGitHub\MiddlePython\Images\menu.png)
+
+![submenu](C:\Cloud2023\ToGitHub\MiddlePython\Images\submenu.png)
