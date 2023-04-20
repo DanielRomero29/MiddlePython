@@ -1,4 +1,4 @@
-# NextStartPython - EOI Desarrollo Cloud
+# MiddlePython - EOI Desarrollo Cloud
 
 ## ¿Quienes colaboran en este repositorio?
 
@@ -33,4 +33,5 @@ Ejecutar el comando ```py main.py```
 
 ## ¿Qué contiene este repositorio?
 
-Este repositorio contiene unas carpetas, en las cuales podemos encontrar ejercicios o programas que se utilizan para trabajar con JSON, clases y distintas colecciones de Python
+Este repositorio contiene unas carpetas, en las cuales podemos encontrar ejercicios o programas que se utilizan para trabajar con JSON, clases y distintas colecciones de Python.
+Dentro del main encontraremos un menú con 4 opciones que corresponde a las 4 carpetas. Dentro de cada opción, un submenú con los ejercicios.

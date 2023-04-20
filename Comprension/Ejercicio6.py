@@ -11,6 +11,7 @@ def principal():
         "Tokio": "La flor del cerezo",
         "Dubai": "El Burj Khalifa"
     }
+    
     #Ir añadiendo a mano. 
     #while True:
     #    ciudad=input("Ciudad:")
