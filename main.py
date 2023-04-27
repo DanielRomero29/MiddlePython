@@ -21,7 +21,7 @@ from Classes import Ejercicio3 as cla3
 from Classes import Ejercicio4 as cla4
 
 def submenu(opcion,carpeta):
-    
+    os.system("cls") #Limpia la pantalla en la consola
     if opcion == "1":
         print("Bienvenido al submenú sobre COLECCIONES")
         
@@ -75,7 +75,7 @@ def submenu(opcion,carpeta):
         eval(s)
         
 
-#continuar=input("Presione enter para continuar...")
+    continuar=input("Presione enter para continuar...")
     
 while True:
     os.system("cls") #Limpia la pantalla en la consola
